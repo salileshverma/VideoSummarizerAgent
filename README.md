@@ -24,7 +24,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/video-summarizer.git
+git clone (https://github.com/salileshverma/VideoSummarizerAgent.git)
 cd video-summarizer
 
 
