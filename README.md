@@ -1,6 +1,3 @@
-<img width="2872" height="1456" alt="Screenshot 2025-08-12 at 1 24 23 AM" src="https://github.com/user-attachments/assets/a5c1e98a-7f12-4137-aa0e-b9694175f62a" />
-<img width="2782" height="1452" alt="Screenshot 2025-08-12 at 1 43 16 AM" src="https://github.com/user-attachments/assets/50f57fb4-35ef-46c8-9b5d-73ccca843b53" />
-<img width="2772" height="1420" alt="Screenshot 2025-08-12 at 1 43 39 AM" src="https://github.com/user-attachments/assets/cec82660-693d-40f9-a68f-cbab1b3c91e2" />
 
 Phidata Video AI Summarizer 🎥🕵️
 
