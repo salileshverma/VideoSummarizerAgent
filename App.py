@@ -34,14 +34,14 @@ st.set_page_config(
 )
 
 st.title("Phidata Video AI Summarizer🎥🕵️")
-st.header("Powered by Gemini 1.5 Flash latest")
+st.header("Powered by Gemini-2.5-flash")
 
 
 @st.cache_resource
 def initialize_agent():
     return Agent(
         name="Video AI Summarizer",
-        model=Gemini(id="gemini-1.5-flash-latest"),
+        model=Gemini(id="gemini-2.5-flash"),
         tools=[DuckDuckGo()],
         markdown=True,
     )
