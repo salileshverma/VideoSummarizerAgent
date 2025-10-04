@@ -1,4 +1,4 @@
-
+https://videosummarizeragent.streamlit.app/
 Phidata Video AI Summarizer 🎥🕵️
 
 A Streamlit-based multimodal AI agent that analyzes video content and provides actionable insights. Powered by Gemini 1.5 Flash and web search (DuckDuckGo), this tool lets you upload a video and ask questions about its content.
